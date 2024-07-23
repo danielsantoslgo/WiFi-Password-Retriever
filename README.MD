@@ -27,7 +27,7 @@ sudo apt install network-manager
 1. Clona este repositorio en tu máquina local o descarga el archivo ZIP y extráelo.
    
    ```sh
-   git clone https://github.com/tuusuario/wifi-password-retriever.git
+   git clone https://github.com/danielsantoslgo/wifi-password-retriever.git
    ```
 
 2. Navega al directorio del proyecto.
