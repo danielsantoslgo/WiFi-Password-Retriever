@@ -1,7 +1,14 @@
-```markdown
 # 🔐 WiFi Password Retriever
 
 Este script en Python te permite recuperar la contraseña de una red WiFi en un sistema Linux utilizando `nmcli`.
+
+### 📦 Estructura del Proyecto
+
+```
+wifi-password-retriever/
+├── wifi_password.py
+└── README.md
+```
 
 ## 🚀 Comenzando
 
@@ -51,19 +58,9 @@ sudo apt install network-manager
    The password for MyWiFiNetwork is: MySecretPassword
    ```
 
-### 📦 Estructura del Proyecto
-
-```
-wifi-password-retriever/
-├── wifi_password.py
-└── README.md
-```
 
 ### 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ¡Gracias por usar este script! 🌟
-```
-
-Este `README.md` incluye todos los pasos necesarios para configurar y ejecutar el script, y está diseñado para ser claro y atractivo utilizando emojis.
